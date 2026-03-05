@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Ericson Mark G. Guanzon  
 
-<!--
-**astigPree/astigPree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1. Who am I?  
+I’m a **Junior Backend Developer** from Masbate City, Philippines, passionate about building secure and scalable web applications that solve real-world problems.  
 
-Here are some ideas to get you started:
+### 2. What am I currently working on?  
+I’m refining my portfolio projects and contributing to backend solutions using Python and modern frameworks, while continuously learning about cybersecurity and cloud deployment.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 3. What tools do I use?  
+I work with **Python, Django, FastAPI, PostgreSQL, Docker, and Linux**. I also explore AI-assisted workflows to improve productivity and code quality.  
+
+### 4. How to reach me?  
+📧 Email: **[your email here]**  
+🌐 Portfolio: [makietech.pythonanywhere.com](https://makietech.pythonanywhere.com)  
+💻 GitHub: [github.com/astigPree](https://github.com/astigPree)  
+📍 Location: Masbate City, Philippines  
