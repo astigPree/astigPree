@@ -12,5 +12,4 @@ I work with **Python, Django, PostgreSQL, Docker, and Linux**. I also explore AI
 ### 4. How to reach me? 
 Portfolio: [makietech.pythonanywhere.com](https://makietech.pythonanywhere.com)  
 GitHub: [github.com/astigPree](https://github.com/astigPree)    
-Facebook : [Ericson Mark Guanzon](https://www.facebook.com/makietech.guanzon)
 Location: Masbate City, Philippines  
