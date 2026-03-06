@@ -10,6 +10,7 @@ I’m refining my portfolio projects and contributing to backend solutions using
 I work with **Python, Django, PostgreSQL, Docker, and Linux**. I also explore AI-assisted workflows to improve productivity and code quality.  
 
 ### 4. How to reach me? 
-Portfolio: [makietech.pythonanywhere.com](https://makietech.pythonanywhere.com)  
+Portfolio: [makietech.pythonanywhere.com](https://makietech.pythonanywhere.com)   
+Facebook: [Ericson Mark Guanzon](https://www.facebook.com/makietech.guanzon)
 GitHub: [github.com/astigPree](https://github.com/astigPree)    
 Location: Masbate City, Philippines  
