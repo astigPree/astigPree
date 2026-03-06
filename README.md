@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ericson Mark G. Guanzon  
+## 👋 Hi, I’m Ericson Mark A. Guanzon  
 
 ### 1. Who am I?  
 I’m a **Full Stack Developer** from Masbate City, Philippines, passionate about building secure and scalable web applications that solve real-world problems.  
